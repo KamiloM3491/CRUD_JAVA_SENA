@@ -23,16 +23,6 @@ public class PerfilUsuario extends javax.swing.JFrame {
         initComponents();
     }
     
-//    public PerfilUsuario(Usuario usuario) {
-//
-//        this();
-//
-//        txtNombrePerfil.setText(usuario.getNombre());
-//        txtApellidoPerfil.setText(usuario.getApellido());
-//        txtCorreoPerfil.setText(usuario.getCorreo());
-//        txtTelefonoPerfil.setText(usuario.getTelefono());
-//        txtDireccionPerfil.setText(usuario.getDireccion());
-//    }
     
     public PerfilUsuario(Usuario usuario) {
 

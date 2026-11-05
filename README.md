@@ -13,7 +13,6 @@ Para la conexión y persistencia de datos se utilizan JDBC e Hibernate. JDBC per
 ## Tecnologías utilizadas
 
 - Java (JDK 25)
-- Java Swing
 - Maven
 - JDBC
 - Hibernate
@@ -79,7 +78,7 @@ La conexión JDBC se encuentra en `ConexionJDBC.java` y la configuración de Hib
 1. Clona el repositorio y accede a la carpeta del proyecto:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/KamiloM3491/CRUD_JAVA_SENA.git
 cd CRUD_JAVA_SENA
 ```
 
